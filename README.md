@@ -3,7 +3,7 @@ Alpha (learning rate)               : 1<br/>
 Epoch (num_iters)                   : 10,000<br/>
 Accuracy (as predicted on test set) : 97.77<br/>
 
-<h3>Description:</h3><br/>
+<h3>Description:</h3>
 The folder contains 5 main .py files.<br/>
 
 1. LogisticReg.py<br/>
