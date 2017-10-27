@@ -7,7 +7,7 @@ Theta (approx) : [-1.97, 0.53, -0.99, -25.71, 7.42, -0.07, 19.80]
 <h3>Description:</h3>
 The folder contains 5 main .py files.<br/>
 
-1. LogisticReg.py<br/>
+1. LogisticReg<br/>
 2. costAndGrad<br/>
 3. gradientDesc<br/>
 4. sigmoid<br/>
