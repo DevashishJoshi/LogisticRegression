@@ -12,5 +12,5 @@ The folder contains 5 main .py files.<br/>
 4. sigmoid<br/>
 5. calcAccuracy<br/>
 
-The graph of cost(J) vs number of iterations is plotted while descending.
-![Alt text](gradientDesc.png "Gradient Descent")
+The graph of cost(J) vs number of iterations is plotted while descending.<br/>
+![Gradient Descent](LogisticRegWs/gradientDesc.png "Gradient Descent")
